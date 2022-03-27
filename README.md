@@ -1,4 +1,4 @@
-# urban-octo-telegram
+# Horiseon
 Website title was changed from website to Horiseon in order to be more consice and descriptive.
 
 The section id for the whole html page is updated based on the semantic HTML standards. 
