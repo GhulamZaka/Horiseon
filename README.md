@@ -9,4 +9,6 @@ The HTML follow logical structure and comments are added to every section.
 
 Live URL: https://ghulamzaka.github.io/Horiseon/
 
-GitHub URL: git@github.com:GhulamZaka/Horiseon.git
+GitHub URL: file:///C:/Users/G.Mustafa%20Zaka/gmzprojects/Horiseon/index.html
+
+GitHub repository application code: git@github.com:GhulamZaka/Horiseon.git
